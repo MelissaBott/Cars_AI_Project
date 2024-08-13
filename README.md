@@ -6,9 +6,8 @@ Analyzes a picture of a highway, intersection, or traffic light stop and detects
 
 ## The Algorithm
 
-Detectnet is used from the Jetson-Inference library of tools to categorize what is in the picture. It also needs a run.sh file to start the container in order to ensure the environment is isolated from other system configurations. Finally, it includes a picture of your choice from the Internet that pertains to cars on the road. 
+Detectnet is used from the Jetson-Inference library of tools to categorize what is in the picture. It includes a picture of your choice from the Internet that pertains to cars on the road. 
 
- Add images or other descriptions for your project here.
 
 ## Running this project
 
