@@ -2,7 +2,6 @@
 
 Analyzes a picture of a highway, intersection, or traffic light stop and detects the cars on the road(s).  It can be useful when determining a efficient way to clear up traffic on the roads. \>
 
-![][image1]
 
 ## The Algorithm
 
